@@ -8,7 +8,7 @@
 ## 🚀 Live Production Applications
 
 ### 📊 [International Bookkeeping](https://international-bookkeeping.vercel.app)
-Professional accounting system with double-entry bookkeeping, multi-currency support, and TimescaleDB integration.
+Accounting system with double-entry bookkeeping, multi-currency support, and TimescaleDB integration.
 
 **Tech Stack:** Angular 17, TypeScript 5, Node.js 22, PostgreSQL 16, TimescaleDB  
 **Features:** Double-entry accounting, Multi-currency, GoBD compliance, DATEV export, Custom fields  
@@ -19,7 +19,7 @@ Professional accounting system with double-entry bookkeeping, multi-currency sup
 ---
 
 ### 📈 [KPI Dashboard](https://kpi-dashboard.vercel.app)
-Real-time analytics platform with cross-application microservices integration and advanced data visualization.
+Analytics platform with cross-application microservices integration and advanced data visualization.
 
 **Tech Stack:** Angular 17, TypeScript 5, Chart.js 4.4, Node.js 22, PostgreSQL 16  
 **Features:** Real-time KPIs, Cross-app integration, Drag-and-drop builder, Advanced analytics, ETL pipelines  
@@ -27,7 +27,7 @@ Real-time analytics platform with cross-application microservices integration an
 
 **Demo Credentials:** `demo` / `DemoKPI2025!Secure`
 
-**🔗 Integration:** The dashboard automatically receives financial KPIs from the bookkeeping app, demonstrating microservices architecture!
+**🔗 Integration:** The dashboard automatically receives financial KPIs from the bookkeeping app, demonstrating microservices architecture.
 
 ---
 
@@ -139,16 +139,9 @@ const skills = {
 1. **Proven Track Record** - Two production applications demonstrating full-stack expertise
 2. **Modern Tech Stack** - Latest Angular, TypeScript, Node.js, PostgreSQL
 3. **Complete Ownership** - Designed, developed, deployed, and maintain both applications
-4. **Multilingual** - Can work with international teams in 5 languages
+4. **Multilingual** - Can work with international teams in 4 languages
 5. **Fast Learner** - Self-taught, continuously expanding skillset
 6. **Production Experience** - Apps are live with real users, not just portfolio pieces
-
-### Perfect for Roles:
-- ✅ Angular Developer / Frontend Engineer
-- ✅ Full-Stack TypeScript Developer
-- ✅ Node.js Backend Developer
-- ✅ Frontend Architect
-- ✅ Technical Lead (Angular/TypeScript)
 
 ### How to Evaluate My Work:
 
