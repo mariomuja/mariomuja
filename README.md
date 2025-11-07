@@ -1,7 +1,24 @@
 # 👋 Hi, I'm Mario Muja
 
-**Full-Stack TypeScript Development** | Angular | Node.js | PostgreSQL | Microsoft Azure | System Integration 
+Full-Stack | TypeScript | Angular | Node.js | PostgreSQL | Microsoft Azure | System Integration 
 📍 Hamburg, Germany | 🌐 Multilingual (DE, EN, IT) | ✅ Available for Opportunities
+
+I am designing solutions and helping you to solve your tasks. 
+However, I am NOT a programmer (at least no longer) !
+The reason for this is the ultra fast development of AI technologies. 
+Do you still use a paper map to find your way when driving your car?
+NO! Obviously today we trust Google Maps, right?
+
+So, trust AI tools. Let them do the work for you. You are still the person who decides, HOW something is done but the code is written much faster, the problems are solved  more accurately. Honestly: who can write code and documentation so fast and accurate like an AI? Who understands so many different topics like an AI and who can analyze a problem from so many perspectives to find the solution? 
+
+I have done all of this myself in my 35 years long career as a software developer and I achieved a lot of results that I am very proud of but now I need to change my view point. Technologies change so fast and we need to adapt and change our live. 
+
+This does by far not mean that humans are no longer needed. Someone must drive the AI. Only a human being can tell the AI what to do and how it should be done and for that I need my years of experience with designing software solutions. I look at AI as a team of software developers which acts on my command. They are committing errors and sometimes the results are not what I want. Then I provide more detailed instructions to fix the issue. So, I am the driving factor and the solutions in my repository provide what I wanted them to provide. 
+
+I hope, you like this view point. If you do and you have some issues with your software landscape, then call me and I will throw in all my experience to help you. By the way: this text has been written by me and not by an AI.
+
+Mario Muja
+Hamburg, 07.11.2025
 
 ---
 
