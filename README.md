@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mario Muja
 
-**Full-Stack TypeScript Developer** | Angular Expert | Node.js | PostgreSQL  
+**Full-Stack TypeScript Development** | Angular | Node.js | PostgreSQL | Microsoft Azure | System Integration 
 📍 Hamburg, Germany | 🌐 Multilingual (DE, EN, IT, ES, FR) | ✅ Available for Opportunities
 
 ---
