@@ -31,7 +31,7 @@ Real-time analytics platform with cross-application microservices integration an
 
 ---
 
-### 🔍 [API Design Inspector](https://api-inspection.vercel.app)
+### 🔍 [API Inspector](https://api-inspection.vercel.app)
 Comprehensive tool for analyzing REST APIs against 40+ industry design standards from Google, Microsoft, OWASP, and other authorities.
 
 **Tech Stack:** Angular 19, TypeScript 5, Material UI, Vercel Serverless Functions  
