@@ -1,31 +1,14 @@
 # 👋 Hi, I'm Mario Muja
 
-Full-Stack | TypeScript | Angular | Node.js | PostgreSQL | Microsoft Azure | System Integration 
-📍 Hamburg, Germany | 🌐 Multilingual (DE, EN, IT) | ✅ Available for Opportunities
-
-I am designing solutions and helping you to solve your tasks. 
-However, I am NOT a programmer (at least no longer) !
-The reason for this is the ultra fast development of AI technologies. 
-Do you still use a paper map to find your way when driving your car?
-NO! Obviously today we trust Google Maps, right?
-
-So, trust AI tools. Let them do the work for you. You are still the person who decides, HOW something is done but the code is written much faster, the problems are solved  more accurately. Honestly: who can write code and documentation so fast and accurate like an AI? Who understands so many different topics like an AI and who can analyze a problem from so many perspectives to find the solution? 
-
-I have done all of this myself in my 35 years long career as a software developer and I achieved a lot of results that I am very proud of but now I need to change my view point. Technologies change so fast and we need to adapt and change our live. 
-
-This does by far not mean that humans are no longer needed. Someone must drive the AI. Only a human being can tell the AI what to do and how it should be done and for that I need my years of experience with designing software solutions. I look at AI as a team of software developers which acts on my command. They are committing errors and sometimes the results are not what I want. Then I provide more detailed instructions to fix the issue. So, I am the driving factor and the solutions in my repository provide what I wanted them to provide. 
-
-I hope, you like this view point. If you do and you have some issues with your software landscape, then call me and I will throw in all my experience to help you. By the way: this text has been written by me and not by an AI.
-
-Mario Muja
-Hamburg, 07.11.2025
+**Full-Stack TypeScript Developer** | Angular Expert | Node.js | PostgreSQL  
+📍 Hamburg, Germany | 🌐 Multilingual (DE, EN, IT, ES, FR) | ✅ Available for Opportunities
 
 ---
 
 ## 🚀 Live Production Applications
 
 ### 📊 [International Bookkeeping](https://international-bookkeeping.vercel.app)
-Accounting system with double-entry bookkeeping, multi-currency support, and TimescaleDB integration.
+Professional accounting system with double-entry bookkeeping, multi-currency support, and TimescaleDB integration.
 
 **Tech Stack:** Angular 17, TypeScript 5, Node.js 22, PostgreSQL 16, TimescaleDB  
 **Features:** Double-entry accounting, Multi-currency, GoBD compliance, DATEV export, Custom fields  
@@ -36,7 +19,7 @@ Accounting system with double-entry bookkeeping, multi-currency support, and Tim
 ---
 
 ### 📈 [KPI Dashboard](https://kpi-dashboard.vercel.app)
-Analytics platform with cross-application microservices integration and advanced data visualization.
+Real-time analytics platform with cross-application microservices integration and advanced data visualization.
 
 **Tech Stack:** Angular 17, TypeScript 5, Chart.js 4.4, Node.js 22, PostgreSQL 16  
 **Features:** Real-time KPIs, Cross-app integration, Drag-and-drop builder, Advanced analytics, ETL pipelines  
@@ -44,7 +27,28 @@ Analytics platform with cross-application microservices integration and advanced
 
 **Demo Credentials:** `demo` / `DemoKPI2025!Secure`
 
-**🔗 Integration:** The dashboard automatically receives financial KPIs from the bookkeeping app, demonstrating microservices architecture.
+**🔗 Integration:** The dashboard automatically receives financial KPIs from the bookkeeping app, demonstrating microservices architecture!
+
+---
+
+### 🔍 [API Design Inspector](https://api-inspection.vercel.app)
+Comprehensive tool for analyzing REST APIs against 40+ industry design standards from Google, Microsoft, OWASP, and other authorities.
+
+**Tech Stack:** Angular 19, TypeScript 5, Material UI, Vercel Serverless Functions  
+**Features:** Real-time analysis, 40+ design rules, Custom rules builder, Authentication support, 8 export formats, Security vulnerability scanning  
+**[🔗 Try Live Demo](https://api-inspection.vercel.app)** | **[📂 Source Code](https://github.com/mariomuja/api-inspection)**
+
+**No login required!** - Analyze any public API instantly or configure authentication for private APIs
+
+**🎯 Key Capabilities:**
+- Validates APIs against Google, Microsoft, OWASP, IETF, JSON:API standards
+- Tests GET, POST, PUT, PATCH, DELETE, OPTIONS methods
+- Detects security vulnerabilities and missing headers
+- Generates comprehensive reports (PDF, Markdown, HTML, CSV, JSON)
+- Export to GitHub Issues and JIRA format
+- Custom rules builder with import/export
+- OpenAPI specification viewer
+- Quality badge generator
 
 ---
 
@@ -105,13 +109,14 @@ const skills = {
 
 ## 🎯 What Makes My Projects Stand Out
 
-✅ **Production-Ready** - Both applications are live and fully functional  
-✅ **No Setup Required** - Instant access with demo credentials  
+✅ **Production-Ready** - All three applications are live and fully functional  
+✅ **No Setup Required** - Instant access with demo credentials (or no login needed)  
 ✅ **Enterprise-Grade** - Session isolation, multi-currency, security best practices  
-✅ **Modern Stack** - Latest Angular 17, TypeScript 5, Node.js 22  
+✅ **Modern Stack** - Latest Angular 17-19, TypeScript 5, Node.js 22  
 ✅ **Full Documentation** - Comprehensive guides and code comments  
 ✅ **Responsive Design** - Works perfectly on desktop, tablet, and mobile  
 ✅ **Microservices** - Cross-application communication and integration  
+✅ **Developer Tools** - API analysis and quality assurance automation  
 
 ---
 
@@ -135,6 +140,16 @@ const skills = {
 - ✅ **Multi-Tenancy** - Complete tenant isolation with RBAC
 - ✅ **Multiple Data Sources** - PostgreSQL, MySQL, MongoDB, REST APIs, GraphQL
 
+### API Design Inspector
+- ✅ **40+ Design Rules** - From Google, Microsoft, OWASP, IETF, and more
+- ✅ **Multi-Method Testing** - Tests GET, POST, PUT, PATCH, DELETE, OPTIONS
+- ✅ **Security Scanning** - Detects vulnerabilities, missing headers, information disclosure
+- ✅ **Custom Rules** - Create organization-specific validation rules
+- ✅ **8 Export Formats** - PDF, Markdown, HTML, CSV, JSON, GitHub, JIRA, badges
+- ✅ **Authentication Support** - API keys, Bearer tokens, OAuth 2.0, Basic Auth
+- ✅ **OpenAPI Generation** - Auto-generates specs for APIs without documentation
+- ✅ **No Backend Storage** - Privacy-first, all analysis is ephemeral
+
 ---
 
 ## 📫 Contact & Availability
@@ -153,41 +168,56 @@ const skills = {
 
 ### Why Consider Me?
 
-1. **Proven Track Record** - Two production applications demonstrating full-stack expertise
-2. **Modern Tech Stack** - Latest Angular, TypeScript, Node.js, PostgreSQL
-3. **Complete Ownership** - Designed, developed, deployed, and maintain both applications
-4. **Multilingual** - Can work with international teams in 4 languages
+1. **Proven Track Record** - Three production applications demonstrating full-stack expertise
+2. **Modern Tech Stack** - Latest Angular, TypeScript, Node.js, PostgreSQL, Serverless
+3. **Complete Ownership** - Designed, developed, deployed, and maintain all applications
+4. **Multilingual** - Can work with international teams in 5 languages
 5. **Fast Learner** - Self-taught, continuously expanding skillset
 6. **Production Experience** - Apps are live with real users, not just portfolio pieces
+7. **Developer Tools** - Created tools that other developers can use
+
+### Perfect for Roles:
+- ✅ Angular Developer / Frontend Engineer
+- ✅ Full-Stack TypeScript Developer
+- ✅ Node.js Backend Developer
+- ✅ Frontend Architect
+- ✅ Technical Lead (Angular/TypeScript)
 
 ### How to Evaluate My Work:
 
-**Quick Demo (2 minutes):**
-1. Visit [international-bookkeeping.vercel.app](https://international-bookkeeping.vercel.app)
-2. Login with `demo` / `DemoUser2025!Secure`
+**Quick Demo (3 minutes):**
+1. Visit [api-inspection.vercel.app](https://api-inspection.vercel.app) - **No login!** Analyze any API instantly
+2. Visit [international-bookkeeping.vercel.app](https://international-bookkeeping.vercel.app) - Login with `demo` / `DemoUser2025!Secure`
 3. Explore the dashboard, create journal entries, generate reports
-4. Check out the [KPI dashboard](https://kpi-dashboard.vercel.app) integration
+4. Check out the [KPI dashboard](https://kpi-dashboard.vercel.app) - Login with `demo` / `DemoKPI2025!Secure`
+5. See the microservices integration in action!
 
 **Code Review:**
 - Well-organized, documented TypeScript code
 - SOLID principles and clean architecture
 - Comprehensive error handling
 - Security best practices (bcrypt, JWT, session management)
+- Modern Angular patterns (standalone components, signals)
 
 ---
 
 ## 🚀 Current Projects
 
-I'm continuously improving both applications with:
+I'm continuously improving all three applications with:
 - Performance optimizations
 - New features based on user feedback
 - Enhanced security measures
 - Additional integrations
+- Advanced API analysis capabilities
 
 **Recent additions:**
+- API Design Inspector with 40+ rules (NEW!)
+- Custom validation rules builder
+- Multi-format export system (PDF, Markdown, HTML, CSV, JSON, JIRA, GitHub)
+- Security vulnerability detection
 - Cross-application KPI integration
 - Session-based data isolation
-- Multi-language support
+- Multi-language support (5 languages)
 - Mobile-responsive design
 - Advanced analytics features
 
@@ -232,7 +262,7 @@ I'm always interested in discussing:
 
 ### 💡 Quick Tip for Recruiters
 
-Both applications have **working live demos** - no signup or installation required! Just use the demo credentials above. This is the best way to evaluate my work in under 5 minutes.
+All three applications have **working live demos** - the API Inspector requires no signup at all, and the other two apps work with demo credentials! This is the best way to evaluate my work in under 5 minutes.
 
 ---
 
