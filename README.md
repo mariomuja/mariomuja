@@ -7,6 +7,27 @@
 
 ## 🚀 Live Production Applications
 
+### 🔍 [Web Inspector](https://web-inspector.vercel.app)
+Comprehensive website quality analyzer validating against 80+ industry standards including WCAG 2.1, Core Web Vitals, SEO, and Security best practices.
+
+**Tech Stack:** Angular 20, TypeScript 5, Material UI, Node.js 18+, Vercel Serverless  
+**Features:** 80+ validation rules, 22 authoritative sources, Real-time analysis, Multiple export formats, Progressive Web App checks  
+**[🔗 Try Live Demo](https://web-inspector.vercel.app)** | **[📂 Source Code](https://github.com/mariomuja/web-inspector)**
+
+**No login required!** - Analyze any public website instantly against WCAG, SEO, Performance, and Security standards
+
+**🎯 Key Capabilities:**
+- Validates against WCAG 2.1, Google Core Web Vitals, SEO best practices
+- JavaScript code quality analysis (Airbnb, Google, ESLint standards)
+- Progressive Web App (PWA) compliance checks
+- Security headers and HTTPS validation
+- Accessibility (A11Y Project, WebAIM) and UX guidelines
+- Social media optimization (Open Graph, Twitter Cards)
+- Structured data and Schema.org validation
+- Export to PDF, Markdown, HTML, CSV, JSON, GitHub Issues, JIRA
+
+---
+
 ### 📊 [International Bookkeeping](https://international-bookkeeping.vercel.app)
 Professional accounting system with double-entry bookkeeping, multi-currency support, and TimescaleDB integration.
 
@@ -109,14 +130,15 @@ const skills = {
 
 ## 🎯 What Makes My Projects Stand Out
 
-✅ **Production-Ready** - All three applications are live and fully functional  
+✅ **Production-Ready** - All four applications are live and fully functional  
 ✅ **No Setup Required** - Instant access with demo credentials (or no login needed)  
 ✅ **Enterprise-Grade** - Session isolation, multi-currency, security best practices  
-✅ **Modern Stack** - Latest Angular 17-19, TypeScript 5, Node.js 22  
+✅ **Modern Stack** - Latest Angular 17-20, TypeScript 5, Node.js 18-22  
 ✅ **Full Documentation** - Comprehensive guides and code comments  
 ✅ **Responsive Design** - Works perfectly on desktop, tablet, and mobile  
 ✅ **Microservices** - Cross-application communication and integration  
-✅ **Developer Tools** - API analysis and quality assurance automation  
+✅ **Developer Tools** - Website analysis, API validation, and quality assurance automation  
+✅ **Industry Standards** - 100+ validation rules from WCAG, Google, OWASP, ESLint, and more  
 
 ---
 
@@ -149,6 +171,16 @@ const skills = {
 - ✅ **Authentication Support** - API keys, Bearer tokens, OAuth 2.0, Basic Auth
 - ✅ **OpenAPI Generation** - Auto-generates specs for APIs without documentation
 - ✅ **No Backend Storage** - Privacy-first, all analysis is ephemeral
+
+### Web Inspector
+- ✅ **80+ Validation Rules** - WCAG 2.1, Core Web Vitals, SEO, Security, JavaScript quality
+- ✅ **22 Authoritative Sources** - W3C, Google, OWASP, Airbnb, ESLint, Material Design
+- ✅ **JavaScript Code Analysis** - Airbnb Style Guide, Google JS Guide, ESLint rules
+- ✅ **Performance Audits** - Lighthouse metrics, LCP, CLS, FID/INP optimization
+- ✅ **Accessibility Testing** - WCAG 2.1, A11Y Project, WebAIM guidelines
+- ✅ **PWA Compliance** - Service workers, manifests, offline functionality
+- ✅ **Social Media Optimization** - Open Graph, Twitter Cards, Schema.org
+- ✅ **Real-Time Analysis** - Instant feedback with detailed recommendations
 
 ---
 
@@ -203,7 +235,7 @@ const skills = {
 
 ## 🚀 Current Projects
 
-I'm continuously improving all three applications with:
+I'm continuously improving all four applications with:
 - Performance optimizations
 - New features based on user feedback
 - Enhanced security measures
@@ -211,10 +243,15 @@ I'm continuously improving all three applications with:
 - Advanced API analysis capabilities
 
 **Recent additions:**
-- API Design Inspector with 40+ rules (NEW!)
+- **Web Inspector** - 80+ rules for website quality analysis (NEWEST!)
+- **API Design Inspector** with 40+ rules
+- JavaScript code quality analysis (Airbnb, Google, ESLint)
+- Progressive Web App (PWA) validation
 - Custom validation rules builder
 - Multi-format export system (PDF, Markdown, HTML, CSV, JSON, JIRA, GitHub)
-- Security vulnerability detection
+- Security vulnerability detection (OWASP, CSP, Headers)
+- Accessibility compliance (WCAG 2.1, WebAIM, A11Y Project)
+- Core Web Vitals optimization (LCP, CLS, FID/INP)
 - Cross-application KPI integration
 - Session-based data isolation
 - Multi-language support (5 languages)
@@ -262,7 +299,10 @@ I'm always interested in discussing:
 
 ### 💡 Quick Tip for Recruiters
 
-All three applications have **working live demos** - the API Inspector requires no signup at all, and the other two apps work with demo credentials! This is the best way to evaluate my work in under 5 minutes.
+All four applications have **working live demos**:
+- **Web Inspector** and **API Inspector** require no signup at all - instant analysis!
+- **Bookkeeping** and **Dashboard** work with demo credentials shown above
+- This is the best way to evaluate my work in under 5 minutes
 
 ---
 
