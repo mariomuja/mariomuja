@@ -7,12 +7,12 @@
 
 ## 🚀 Live Production Applications
 
-### 🔍 [Web Inspector](https://web-inspector.vercel.app)
+### 🔍 [Web Inspector](https://web-inspection.vercel.app)
 Comprehensive website quality analyzer validating against 80+ industry standards including WCAG 2.1, Core Web Vitals, SEO, and Security best practices.
 
 **Tech Stack:** Angular 20, TypeScript 5, Material UI, Node.js 18+, Vercel Serverless  
 **Features:** 80+ validation rules, 22 authoritative sources, Real-time analysis, Multiple export formats, Progressive Web App checks  
-**[🔗 Try Live Demo](https://web-inspector.vercel.app)** | **[📂 Source Code](https://github.com/mariomuja/web-inspector)**
+**[🔗 Try Live Demo](https://web-inspection.vercel.app)** | **[📂 Source Code](https://github.com/mariomuja/web-inspector)**
 
 **No login required!** - Analyze any public website instantly against WCAG, SEO, Performance, and Security standards
 
@@ -52,7 +52,7 @@ Real-time analytics platform with cross-application microservices integration an
 
 ---
 
-### 🔍 [API Inspector](https://api-inspection.vercel.app)
+### 🔍 [API Design Inspector](https://api-inspection.vercel.app)
 Comprehensive tool for analyzing REST APIs against 40+ industry design standards from Google, Microsoft, OWASP, and other authorities.
 
 **Tech Stack:** Angular 19, TypeScript 5, Material UI, Vercel Serverless Functions  
