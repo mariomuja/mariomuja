@@ -78,7 +78,7 @@ Revolutionary configuration-based data integration platform demonstrating **Conf
 
 **Tech Stack:** Angular 17, TypeScript 5, Azure Functions (.NET 8), Azure SQL Database, Terraform, Vercel  
 **Features:** Pluggable adapter architecture, Event-driven MessageBox pattern, Guaranteed delivery, Multi-destination support, SFTP & CSV adapters, Dynamic schema management  
-**[🔗 Try Live Demo](https://interface-configuration.vercel.app)** | **[📂 Source Code](https://github.com/mariomuja/interface-configurator)**
+**[🔗 Try Live Demo](https://interface-configurator.vercel.app)** | **[📂 Source Code](https://github.com/mariomuja/interface-configurator)**
 
 **No login required!** - Configure data integrations instantly with a visual interface
 
