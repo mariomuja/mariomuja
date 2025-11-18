@@ -73,6 +73,27 @@ Comprehensive tool for analyzing REST APIs against 40+ industry design standards
 
 ---
 
+### ⚙️ [Interface Configurator](https://interface-configuration.vercel.app)
+Revolutionary configuration-based data integration platform demonstrating **Configuration over Implementation**. Connect any data sources and destinations without writing custom code—just configure and deploy.
+
+**Tech Stack:** Angular 17, TypeScript 5, Azure Functions (.NET 8), Azure SQL Database, Terraform, Vercel  
+**Features:** Pluggable adapter architecture, Event-driven MessageBox pattern, Guaranteed delivery, Multi-destination support, SFTP & CSV adapters, Dynamic schema management  
+**[🔗 Try Live Demo](https://interface-configuration.vercel.app)** | **[📂 Source Code](https://github.com/mariomuja/interface-configurator)**
+
+**No login required!** - Configure data integrations instantly with a visual interface
+
+**🎯 Key Capabilities:**
+- **Configuration-Based Integration** - Zero implementation effort for new interfaces
+- **Universal Adapters** - CSV and SQL Server adapters work as both source and destination
+- **MessageBox Pattern** - Guaranteed delivery with event-driven architecture
+- **SFTP Support** - Retrieve files from SFTP servers with connection pooling
+- **Dynamic Schema** - Automatic schema adaptation to CSV structure
+- **Infrastructure as Code** - Complete Azure infrastructure defined with Terraform
+- **Multi-Destination** - One source can feed multiple destinations simultaneously
+- **Row-Level Error Handling** - Failed rows isolated and preserved for reprocessing
+
+---
+
 ## 💻 Technical Expertise
 
 ```typescript
@@ -109,9 +130,8 @@ const skills = {
     'Docker'
   ],
   languages: {
-    native: 'Albanian',
-    fluent: ['German 🇩🇪', 'English 🇬🇧', 'Italian 🇮🇹'],
-    proficient: ['Spanish 🇪🇸', 'French 🇫🇷']
+    native: 'German',
+    fluent: ['German 🇩🇪', 'English 🇬🇧', 'Italian 🇮🇹']
   }
 };
 ```
@@ -130,7 +150,7 @@ const skills = {
 
 ## 🎯 What Makes My Projects Stand Out
 
-✅ **Production-Ready** - All four applications are live and fully functional  
+✅ **Production-Ready** - All five applications are live and fully functional  
 ✅ **No Setup Required** - Instant access with demo credentials (or no login needed)  
 ✅ **Enterprise-Grade** - Session isolation, multi-currency, security best practices  
 ✅ **Modern Stack** - Latest Angular 17-20, TypeScript 5, Node.js 18-22  
@@ -200,7 +220,7 @@ const skills = {
 
 ### Why Consider Me?
 
-1. **Proven Track Record** - Three production applications demonstrating full-stack expertise
+1. **Proven Track Record** - Five production applications demonstrating full-stack expertise
 2. **Modern Tech Stack** - Latest Angular, TypeScript, Node.js, PostgreSQL, Serverless
 3. **Complete Ownership** - Designed, developed, deployed, and maintain all applications
 4. **Multilingual** - Can work with international teams in 5 languages
@@ -219,10 +239,11 @@ const skills = {
 
 **Quick Demo (3 minutes):**
 1. Visit [api-inspection.vercel.app](https://api-inspection.vercel.app) - **No login!** Analyze any API instantly
-2. Visit [international-bookkeeping.vercel.app](https://international-bookkeeping.vercel.app) - Login with `demo` / `DemoUser2025!Secure`
-3. Explore the dashboard, create journal entries, generate reports
-4. Check out the [KPI dashboard](https://kpi-dashboard.vercel.app) - Login with `demo` / `DemoKPI2025!Secure`
-5. See the microservices integration in action!
+2. Visit [interface-configuration.vercel.app](https://interface-configuration.vercel.app) - **No login!** Configure data integrations visually
+3. Visit [international-bookkeeping.vercel.app](https://international-bookkeeping.vercel.app) - Login with `demo` / `DemoUser2025!Secure`
+4. Explore the dashboard, create journal entries, generate reports
+5. Check out the [KPI dashboard](https://kpi-dashboard.vercel.app) - Login with `demo` / `DemoKPI2025!Secure`
+6. See the microservices integration in action!
 
 **Code Review:**
 - Well-organized, documented TypeScript code
@@ -235,7 +256,7 @@ const skills = {
 
 ## 🚀 Current Projects
 
-I'm continuously improving all four applications with:
+I'm continuously improving all five applications with:
 - Performance optimizations
 - New features based on user feedback
 - Enhanced security measures
@@ -299,8 +320,8 @@ I'm always interested in discussing:
 
 ### 💡 Quick Tip for Recruiters
 
-All four applications have **working live demos**:
-- **Web Inspector** and **API Inspector** require no signup at all - instant analysis!
+All five applications have **working live demos**:
+- **Web Inspector**, **API Inspector**, and **Interface Configurator** require no signup at all - instant analysis!
 - **Bookkeeping** and **Dashboard** work with demo credentials shown above
 - This is the best way to evaluate my work in under 5 minutes
 
