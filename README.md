@@ -73,7 +73,7 @@ Comprehensive tool for analyzing REST APIs against 40+ industry design standards
 
 ---
 
-### ⚙️ [Interface Configurator](https://interface-configuration.vercel.app)
+### ⚙️ [Interface Configurator](https://interface-configurator.vercel.app)
 Revolutionary configuration-based data integration platform demonstrating **Configuration over Implementation**. Connect any data sources and destinations without writing custom code—just configure and deploy.
 
 **Tech Stack:** Angular 17, TypeScript 5, Azure Functions (.NET 8), Azure SQL Database, Terraform, Vercel  
@@ -239,7 +239,7 @@ const skills = {
 
 **Quick Demo (3 minutes):**
 1. Visit [api-inspection.vercel.app](https://api-inspection.vercel.app) - **No login!** Analyze any API instantly
-2. Visit [interface-configuration.vercel.app](https://interface-configuration.vercel.app) - **No login!** Configure data integrations visually
+2. Visit [interface-configurator.vercel.app](https://interface-configurator.vercel.app) - **No login!** Configure data integrations visually
 3. Visit [international-bookkeeping.vercel.app](https://international-bookkeeping.vercel.app) - Login with `demo` / `DemoUser2025!Secure`
 4. Explore the dashboard, create journal entries, generate reports
 5. Check out the [KPI dashboard](https://kpi-dashboard.vercel.app) - Login with `demo` / `DemoKPI2025!Secure`
