@@ -39,12 +39,12 @@ Professional accounting system with double-entry bookkeeping, multi-currency sup
 
 ---
 
-### 📈 [KPI Dashboard](https://international-kpi-dashboard.vercel.app/dashboard)
+### 📈 [KPI Dashboard](https://international-kpi-dashboard.vercel.app)
 Real-time analytics platform with cross-application microservices integration and advanced data visualization.
 
 **Tech Stack:** Angular 17, TypeScript 5, Chart.js 4.4, Node.js 22, PostgreSQL 16  
 **Features:** Real-time KPIs, Cross-app integration, Drag-and-drop builder, Advanced analytics, ETL pipelines  
-**[🔗 Try Live Demo](https://international-kpi-dashboard.vercel.app/dashboard)** | **[📂 Source Code](https://github.com/mariomuja/dashboard)**
+**[🔗 Try Live Demo](https://international-kpi-dashboard.vercel.app)** | **[📂 Source Code](https://github.com/mariomuja/dashboard)**
 
 **Demo Credentials:** `demo` / `DemoKPI2025!Secure`
 
@@ -242,7 +242,7 @@ const skills = {
 2. Visit [interface-configurator.vercel.app](https://interface-configurator.vercel.app) - **No login!** Configure data integrations visually
 3. Visit [international-bookkeeping.vercel.app](https://international-bookkeeping.vercel.app) - Login with `demo` / `DemoUser2025!Secure`
 4. Explore the dashboard, create journal entries, generate reports
-5. Check out the [KPI dashboard](https://international-kpi-dashboard.vercel.app/dashboard) - Login with `demo` / `DemoKPI2025!Secure`
+5. Check out the [KPI dashboard](https://international-kpi-dashboard.vercel.app) - Login with `demo` / `DemoKPI2025!Secure`
 6. See the microservices integration in action!
 
 **Code Review:**
