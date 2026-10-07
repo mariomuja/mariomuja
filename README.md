@@ -94,6 +94,39 @@ Revolutionary configuration-based data integration platform demonstrating **Conf
 
 ---
 
+### 🤖 [AI Startup](https://aistartup.vercel.app)
+Professional landing page for an AI-powered enterprise software company—showcasing rapid delivery of production-ready applications with multilingual UX.
+
+**Tech Stack:** HTML5, CSS3, Bootstrap 5.3, Vanilla JavaScript, i18next, Bootstrap Icons  
+**Features:** Responsive marketing site, Multi-language UI (EN, DE, ES, FR, IT), Enterprise capability showcase, Contact CTA  
+**[🔗 Try Live Demo](https://aistartup.vercel.app)** | **[📂 Source Code](https://github.com/mariomuja/aistartup)**
+
+**No login required!** - Browse the multilingual landing page instantly
+
+---
+
+### ⌨️ [n8n-cli](https://github.com/mariomuja/n8n-cli)
+Command-line client for the n8n REST API—deploy, run, and manage workflows across cloud or self-hosted instances from CI/CD and scripts.
+
+**Tech Stack:** TypeScript 5, Node.js, undici, Vitest  
+**Features:** Deploy create-or-update, Workflow activate/deactivate, Execution list/retry/stop, Multi-environment config, Usable as CLI or library  
+**[📂 Source Code](https://github.com/mariomuja/n8n-cli)**
+
+**CLI tool** - Install locally and point at any n8n instance via config or env vars
+
+---
+
+### ☁️ [Azure Integration Demo](https://github.com/mariomuja/demo-integration)
+End-to-end Azure integration showcase: source → API Management → Functions → Service Bus → destination, with live transport visualization and zero-secret deployment.
+
+**Tech Stack:** Terraform, Azure Functions (PowerShell), API Management, Service Bus, Blob Storage, Application Insights, Managed Identities  
+**Features:** Zero-secret Managed Identity auth, Correlation IDs & end-to-end tracing, Dead-letter queues, Live PowerShell transport visualization, Full IaC  
+**[📂 Source Code](https://github.com/mariomuja/demo-integration)**
+
+**Infrastructure demo** - Clone and deploy with Terraform to walk the full message path in Azure
+
+---
+
 ## 💻 Technical Expertise
 
 ```typescript
@@ -150,7 +183,7 @@ const skills = {
 
 ## 🎯 What Makes My Projects Stand Out
 
-✅ **Production-Ready** - All five applications are live and fully functional  
+✅ **Production-Ready** - Portfolio apps are live and fully functional  
 ✅ **No Setup Required** - Instant access with demo credentials (or no login needed)  
 ✅ **Enterprise-Grade** - Session isolation, multi-currency, security best practices  
 ✅ **Modern Stack** - Latest Angular 17-20, TypeScript 5, Node.js 18-22  
@@ -220,7 +253,7 @@ const skills = {
 
 ### Why Consider Me?
 
-1. **Proven Track Record** - Five production applications demonstrating full-stack expertise
+1. **Proven Track Record** - Multiple production applications demonstrating full-stack and cloud expertise
 2. **Modern Tech Stack** - Latest Angular, TypeScript, Node.js, PostgreSQL, Serverless
 3. **Complete Ownership** - Designed, developed, deployed, and maintain all applications
 4. **Multilingual** - Can work with international teams in 5 languages
@@ -240,10 +273,11 @@ const skills = {
 **Quick Demo (3 minutes):**
 1. Visit [api-inspection.vercel.app](https://api-inspection.vercel.app) - **No login!** Analyze any API instantly
 2. Visit [interface-configurator.vercel.app](https://interface-configurator.vercel.app) - **No login!** Configure data integrations visually
-3. Visit [international-bookkeeping.vercel.app](https://international-bookkeeping.vercel.app) - Login with `demo` / `DemoUser2025!Secure`
-4. Explore the dashboard, create journal entries, generate reports
-5. Check out the [KPI dashboard](https://international-kpi-dashboard.vercel.app) - Login with `demo` / `DemoKPI2025!Secure`
-6. See the microservices integration in action!
+3. Visit [aistartup.vercel.app](https://aistartup.vercel.app) - **No login!** Multilingual enterprise landing page
+4. Visit [international-bookkeeping.vercel.app](https://international-bookkeeping.vercel.app) - Login with `demo` / `DemoUser2025!Secure`
+5. Explore the dashboard, create journal entries, generate reports
+6. Check out the [KPI dashboard](https://international-kpi-dashboard.vercel.app) - Login with `demo` / `DemoKPI2025!Secure`
+7. See the microservices integration in action!
 
 **Code Review:**
 - Well-organized, documented TypeScript code
@@ -256,7 +290,7 @@ const skills = {
 
 ## 🚀 Current Projects
 
-I'm continuously improving all five applications with:
+I'm continuously improving my applications with:
 - Performance optimizations
 - New features based on user feedback
 - Enhanced security measures
@@ -320,9 +354,10 @@ I'm always interested in discussing:
 
 ### 💡 Quick Tip for Recruiters
 
-All five applications have **working live demos**:
-- **Web Inspector**, **API Inspector**, and **Interface Configurator** require no signup at all - instant analysis!
+Most applications have **working live demos**:
+- **Web Inspector**, **API Inspector**, **Interface Configurator**, and **AI Startup** require no signup at all
 - **Bookkeeping** and **Dashboard** work with demo credentials shown above
+- **n8n-cli** and **Azure Integration Demo** are clone-and-run / IaC projects (see source links)
 - This is the best way to evaluate my work in under 5 minutes
 
 ---
